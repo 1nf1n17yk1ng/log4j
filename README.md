@@ -33,7 +33,7 @@ javac Exploit.java -source 8 -target 8
 ## 4. temporary HTTP server
 
 ```
-python3 -m http.server
+python3 -m http.server 8888
 
 ```
 ![image](https://user-images.githubusercontent.com/66146701/146672342-69d18b1e-e605-4906-8ee9-51868033fb6e.png)
