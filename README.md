@@ -1,4 +1,4 @@
-# Solar, exploiting log4j CVE-2021-44228
+# exploiting log4j CVE-2021-44228 ( TryHackMe Solar, Walkthrough)
 
 ```
 git clone https://github.com/1nf1n17yk1ng/log4j.git 
