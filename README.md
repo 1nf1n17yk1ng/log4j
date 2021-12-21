@@ -5,7 +5,7 @@ git clone https://github.com/1nf1n17yk1ng/log4j.git
 
 ```
 
-## 1. run log4j.py (This whill install all the nessasary files and start the LDAP server)
+## 1. run log4j.py (This whill install all the nessasary applications and start the LDAP server)
 
 ```
 ifconfig tun0
