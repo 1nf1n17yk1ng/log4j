@@ -1,3 +1,5 @@
+💻 -1nf1n17yk1ng-
+
 # exploiting log4j CVE-2021-44228 ( TryHackMe Solar, Walkthrough)
 
 ```
